@@ -11,7 +11,7 @@
         router
       >
         <el-submenu index="/editor">
-          <template slot="title">编辑器</template>
+          <template slot="title">编辑器15245</template>
           <el-menu-item index="/editor/form">表单</el-menu-item>
           <el-menu-item index="/editor/table">表格</el-menu-item>
         </el-submenu>
