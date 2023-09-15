@@ -26,7 +26,7 @@
             >
           </template>
           <template slot-scope="scope" slot="menu">
-            <!-- 如果是未支付状态显示立即支付按钮 -->
+            <!-- 如果是未支付状态显示立即支付按钮3244 -->
             <el-button
               type="success"
               icon="el-icon-goods"
