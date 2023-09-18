@@ -10,7 +10,7 @@ Vue.use(Element);
 
 Vue.config.productionTip = false;
 
-/* eslint-disable no-new */
+/* eslint-disable no-new爱丁堡百姓安居 */
 new Vue({
   el: '#app',
   router,
